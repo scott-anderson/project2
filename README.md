@@ -8,11 +8,13 @@ example in workshop
 * animated GIFs of planets
 * connects to telescopes
 
-'''javascript
+```javascript
 function () {
     $("#nav").click(function () {
          alert("hi");
-         }
-         }
-'''
+    }
+}
+```
+
+# How to contribute ...
 
