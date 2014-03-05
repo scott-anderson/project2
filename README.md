@@ -18,3 +18,6 @@ function () {
 
 # How to contribute ...
 
+# A pickture of Atl
+
+![Atlanta skyline](http://www.ballardspahr.com/~/media/Images/Offices/Backgrounds/Atlanta.ashx)
